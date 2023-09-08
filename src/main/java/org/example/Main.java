@@ -12,5 +12,6 @@ public class Main {
         funnyNames.add("Doodelidoo");
         funnyNames.add("Poochilala");
         System.out.println(funnyNames);
+        System.out.println("Boooooooooooom");
     }
 }
