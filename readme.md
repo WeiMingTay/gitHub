@@ -3,8 +3,17 @@
 
 ## Theoretische Aufgaben
 1. Für eine Supermarktkette programmiert Ihr gerade an einer Gemüse-API. Der Inhalt des 'main'-branches ist derzeit auf den Servern installiert. Ihr habt einen branch 'addKcalInformation' ausgecheckt und bereits einige Commits erstellt (alles eingecheckt, keine uncommitteten Änderungen im working directory). Plötzlich kommt Euer Projektleiter mit der dringenden Bitte den Bug zu beheben, der dazu führt, dass aktuell für die Produkte ein viel zu günstiger Preis angezeigt wird. Beschreibt, wie Ihr mit Git/GitHub diese Situation lösen könnt. (bitte grob skizzieren, nicht zu detailliert)
+```
+Aktuelle main-Version pullen-->Neuen Branch der main erstellen. Bug in dem Branch beheben. Regelmäßig committen. Pushen und Pull-Request erstellen. Von anderen Entwicklern prüfen lassen und mit dem Main mergen, wenn okay. Danach wieder zu dem Kalorien-Branch auschecken. Ende.
+```
 2. Warum ist es sinnvoll, Feature-Branches zu verwenden? Gebt Beispiele für Situationen, in denen sie nützlich sind.
+```
+Stabile main, mit der Möglichkeit an verschiedenen Features gleichzeitig zu arbeiten. System, welches bereits live ist, soll nicht abstürzen.
+```
 3. Sucht auf GitHub ein öffentliches Repository eines nahmhaften open-source-Projekts und gebt hier den Link dazu an und gib an, wie viele branches derzeit im Repo existieren.
+```
+https://github.com/torvalds/linux
+```
 
 ## Aufgaben
 #### Erstellt ein neues Git-Repository in eurem bevorzugten Tool (z.B. IntelliJ).
@@ -21,7 +30,7 @@
 
 ## Bonus Aufgabe
 11. Forked dieses Github Repository link über den fork-button oben rechts.
-###### Achtet dadrauf das ihr beim forken den Haken "Copy the main branch only" rausnehmt!
+###### Achtet da drauf das ihr beim forken den Haken "Copy the main branch only" rausnehmt!
 ###### Achtet beim Pull-Request auf das ihr eures eigene Repository auswählt
 ###### Arbeitet zu zwei die Aufgaben in der README ab.
 
