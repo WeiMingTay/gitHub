@@ -13,5 +13,6 @@ public class Main {
         funnyNames.add("Poochilala");
         System.out.println(funnyNames);
         System.out.println("Boooooooooooom");
+        System.out.println(":D");
     }
 }
