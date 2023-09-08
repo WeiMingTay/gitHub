@@ -1,4 +1,6 @@
 `8. September 2023` `neueFische - Java Development Bootcamp`
+
+`Dennis` `Frank` `Ming`
 # Git/ Github
 
 ## Theoretische Aufgaben
@@ -29,7 +31,7 @@ https://github.com/torvalds/linux
 10. _Schritt 10_: Führt nach Genehmigung den Merge durch und löscht den Feature-Branch.
 
 ## Bonus Aufgabe
-11. Forked dieses Github Repository link über den fork-button oben rechts.
+11. Forked dieses [Github Repository link](https://github.com/Flooooooooooorian/git-branch-merging-task) über den fork-button oben rechts.
 ###### Achtet da drauf das ihr beim forken den Haken "Copy the main branch only" rausnehmt!
 ###### Achtet beim Pull-Request auf das ihr eures eigene Repository auswählt
 ###### Arbeitet zu zwei die Aufgaben in der README ab.
